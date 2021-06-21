@@ -39,6 +39,5 @@ vaderSentiment==3.3.2
 textblob==0.15.3
 nltk
 statsmodels==0.12.0
-tensorflow==2.5.0
-tensorflow-estimator==2.5.0
+tensorflow-cpu
 wordcloud==1.8.1
